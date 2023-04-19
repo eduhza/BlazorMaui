@@ -775,9 +775,6 @@
     <AppxPackagedFile Include="D:\Programacao\BlazorMaui\BlazorMaui\wwwroot\css\bootstrap\bootstrap.min.css.map">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css.map</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Programacao\BlazorMaui\BlazorMaui\wwwroot\css\open-iconic\FONT-LICENSE">
-      <PackagePath>wwwroot\css\open-iconic\FONT-LICENSE</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Programacao\BlazorMaui\BlazorMaui\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
       <PackagePath>wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css</PackagePath>
     </AppxPackagedFile>
@@ -795,6 +792,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Programacao\BlazorMaui\BlazorMaui\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programacao\BlazorMaui\BlazorMaui\wwwroot\css\open-iconic\FONT-LICENSE">
+      <PackagePath>wwwroot\css\open-iconic\FONT-LICENSE</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Programacao\BlazorMaui\BlazorMaui\wwwroot\css\open-iconic\ICON-LICENSE">
       <PackagePath>wwwroot\css\open-iconic\ICON-LICENSE</PackagePath>

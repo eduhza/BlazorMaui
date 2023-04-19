@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tExGzhOC7pZzTNWsnbvM1RO5ZBe10618lVWkdKD037g=",
+  "Hash": "lDxBob01f6E+DaV4Cfo0T15GRwSHSq7a+drraJOezsw=",
   "Source": "BlazorServer",
   "BasePath": "_content/BlazorServer",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "RazorLibrary",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
@@ -102,23 +102,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorServer\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "BlazorServer",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorServer\\wwwroot\\",
-      "BasePath": "_content/BlazorServer",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "D:\\Programacao\\BlazorMaui\\BlazorServer\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
@@ -221,6 +204,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorServer\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "BlazorServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorServer\\wwwroot\\",
+      "BasePath": "_content/BlazorServer",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "D:\\Programacao\\BlazorMaui\\BlazorServer\\wwwroot\\css\\open-iconic\\ICON-LICENSE",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WmkjSUkJHiXdo52HcuiP0toczkAPHxoct8ye/h52s+s=",
+  "Hash": "or4+1bMXVq6HtfMalFblODGviG5LY8q6piG4n6JaSXs=",
   "Source": "BlazorWebAssemblyApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "RazorLibrary",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
@@ -155,6 +155,23 @@
       "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
+      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "BlazorWebAssemblyApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\icudt.dat"
+    },
+    {
       "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "BlazorWebAssemblyApp",
       "SourceType": "Computed",
@@ -204,23 +221,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
-    },
-    {
-      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "BlazorWebAssemblyApp",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\icudt.dat"
     },
     {
       "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
@@ -6989,40 +6989,6 @@
       "OriginalItemSpec": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorWebAssemblyApp.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\obj\\Debug\\net7.0\\service-worker-assets.js",
-      "SourceId": "BlazorWebAssemblyApp",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "service-worker-assets.js",
-      "AssetKind": "Publish",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorServiceWorker",
-      "AssetTraitValue": "ServiceWorkerManifest",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "obj\\Debug\\net7.0\\service-worker-assets.js"
-    },
-    {
-      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\obj\\Debug\\net7.0\\service-worker-assets.js.build",
-      "SourceId": "BlazorWebAssemblyApp",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "service-worker-assets.js",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorServiceWorker",
-      "AssetTraitValue": "ServiceWorkerManifest",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "obj\\Debug\\net7.0\\service-worker-assets.js.build"
-    },
-    {
       "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\obj\\Debug\\net7.0\\service-worker\\service-worker.js",
       "SourceId": "BlazorWebAssemblyApp",
       "SourceType": "Computed",
@@ -7055,6 +7021,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\service-worker.published.js"
+    },
+    {
+      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "SourceId": "BlazorWebAssemblyApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "service-worker-assets.js",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorServiceWorker",
+      "AssetTraitValue": "ServiceWorkerManifest",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "obj\\Debug\\net7.0\\service-worker-assets.js"
+    },
+    {
+      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\obj\\Debug\\net7.0\\service-worker-assets.js.build",
+      "SourceId": "BlazorWebAssemblyApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "service-worker-assets.js",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorServiceWorker",
+      "AssetTraitValue": "ServiceWorkerManifest",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "obj\\Debug\\net7.0\\service-worker-assets.js.build"
     },
     {
       "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\wwwroot\\css\\app.css",
@@ -7106,23 +7106,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "BlazorWebAssemblyApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
@@ -7225,6 +7208,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "BlazorWebAssemblyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "D:\\Programacao\\BlazorMaui\\BlazorWebAssemblyApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QN2sWKqDK9k3xsyg0jYhU3hEg19tDRVFlBfdX5sXhtk=",
+  "Hash": "k94jRHLjWi+8dQXlZWK6aBx105F7o7Agztl9XjKeQQU=",
   "Source": "BlazorMaui",
   "BasePath": "/",
   "Mode": "Root",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "RazorLibrary",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
@@ -121,23 +121,6 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorMaui\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "BlazorMaui",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorMaui\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
-    },
-    {
       "Identity": "D:\\Programacao\\BlazorMaui\\BlazorMaui\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorMaui",
       "SourceType": "Discovered",
@@ -238,6 +221,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Identity": "D:\\Programacao\\BlazorMaui\\BlazorMaui\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "BlazorMaui",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programacao\\BlazorMaui\\BlazorMaui\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "D:\\Programacao\\BlazorMaui\\BlazorMaui\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
